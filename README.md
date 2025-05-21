@@ -1,5 +1,4 @@
 # Multi Collateral Dai
-![Build Status](https://github.com/makerdao/dss/actions/workflows/.github/workflows/tests.yaml/badge.svg?branch=master)
 
 This repository contains the core smart contract code for Multi
 Collateral Dai. This is a high level description of the system, assuming
